@@ -1,0 +1,25 @@
+.leftsidebar {
+  float: left;
+  position: absolute;
+  top: 0;
+  width: 10em;
+  left: 0;
+  background-color: #CFCFCF;
+  padding-left: 3px;
+}
+
+.redbox {
+border: solid 2px;
+border-color: #EB0404;
+margin-top: 20px;
+margin-bottom: 20px;
+margin-left: 10px;
+margin-right: 10px;
+align-content: center;
+}
+
+.greybox {
+  border:solid 1px;
+  border-color: #ECEAEA;
+  align-content: right;
+}
